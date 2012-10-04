@@ -1,0 +1,22 @@
+#header {
+  background: #fff;
+  padding: 2em 1em 2em 1em;
+  margin-bottom: 1em;
+}
+
+.header-main {
+  color: #000;
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.header-sub {
+  color: #000;
+  font-size: 1.25em;
+  font-style: italic;
+}
+
+#loginHeader {
+  float: right;
+  color: #000;
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="0" hostname="Ingram.local" id="0" name="PostTests" package="com.terenceingram" tests="2" time="0.883" timestamp="2012-10-04T11:13:04">
+      <properties />
+
+      <testcase classname="com.terenceingram.PostTests" name="shouldPerformAddUpdateActions" time="0.709" />
+
+      <testcase classname="com.terenceingram.PostTests" name="shouldEnsureThatTitleIsEntered" time="0.029" />
+
+      <system-out><![CDATA[--Output from shouldPerformAddUpdateActions--
+--Output from shouldEnsureThatTitleIsEntered--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from shouldPerformAddUpdateActions--
+--Output from shouldEnsureThatTitleIsEntered--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="Ingram.local" id="1" name="UserTests" package="com.terenceingram" tests="1" time="0.629" timestamp="2012-10-04T11:13:05">
+      <properties />
+
+      <testcase classname="com.terenceingram.UserTests" name="shouldTestForUser" time="0.628" />
+
+      <system-out><![CDATA[--Output from shouldTestForUser--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from shouldTestForUser--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
